@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void print_hello() {
-    printf("Hello\n");
+void print_hello() {    
+    printf("Hello from new feature branch!\n");
 }
